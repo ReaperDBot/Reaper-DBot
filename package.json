@@ -1,0 +1,19 @@
+{
+  "name": "Reaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Reaper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.0.14",
+    "discord.js": "^12.5.1",
+    "github": "^14.0.0",
+    "ls": "^0.2.1",
+    "rest.js": "^0.2.1"
+  }
+}
