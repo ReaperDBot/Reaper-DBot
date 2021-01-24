@@ -1,1 +1,1 @@
-worker: node Reaper.js
+worker: node reaper.js
